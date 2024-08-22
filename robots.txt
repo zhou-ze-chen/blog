@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: http://www.sxkjxy.cc/sitemap.xml
